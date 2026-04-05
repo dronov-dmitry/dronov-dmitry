@@ -19,4 +19,4 @@ WEB-APPS:
 Telegram-bots:
 | Имя | Описание | Цена | Ссылка |
 | :--- | :--- | :--- | :--- |
-| Translate-bot | Бот-переводчик голоса | 3$/month | [Перейти](https://t.me/translate_lng_bot) |
+| Translate-bot | Бот-переводчик голосовых сообщений | 3$/month | [Перейти](https://t.me/translate_lng_bot) |
