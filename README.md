@@ -14,4 +14,4 @@ APPS:
 | 5D | Строит 5D схему здания | 2Euro/month | [Перейти](https://dronov-dmitry.github.io/5D) |
 | Calendar-logging | Собирает данные по метрикам в календаре | Free + 1$/month | [Перейти](https://dronov-dmitry.github.io/calendar-rate/) |
 | Fertig-Lance | Фриланс-биржа | Free | [Перейти](https://dronov-dmitry.github.io/fertig-lance/) |
-| CRM | CRM-платформа | 1$/month | [Перейти]((https://dronov-dmitry.github.io/crm/)) |
+| CRM | CRM-платформа | 1$/month | [Перейти](https://dronov-dmitry.github.io/crm/) |
