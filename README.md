@@ -20,3 +20,5 @@ Telegram-bots:
 | Имя | Описание | Цена | Ссылка |
 | :--- | :--- | :--- | :--- |
 | Translate-bot | Бот-переводчик голосовых сообщений | 3$/month | [Перейти](https://t.me/translate_lng_bot) |
+| DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | Free | [Перейти](https://t.me/dronovbimbot) |
+
