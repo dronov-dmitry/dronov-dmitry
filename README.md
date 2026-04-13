@@ -8,7 +8,7 @@ Monetization, including Bitcoin.
 
 WEB-APPS:
 
-| Имя | Описание | Цена | Ссылка | Видео |
+| Имя | Описание | Цена | Сервис | Видео |
 | :--- | :--- | :--- | :--- | - |
 | Energo-pass | Считает энергетический паспорт здания | 1$/month | [Перейти](https://dronov-dmitry.github.io/energo_pasport/) | - |
 | 5D | Строит 5D схему здания | 3 Euro/month | [Перейти](https://dronov-dmitry.github.io/5D) | - |
