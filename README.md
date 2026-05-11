@@ -15,6 +15,7 @@ WEB-APPS:
 | Calendar-logging | Собирает данные по метрикам в календаре | [calendar-rate](https://github.com/dronov-dmitry/calendar-rate) | [Видео](https://www.youtube.com/watch?v=Tgjr4S5oZkc) |
 | Fertig-Lance | Фриланс-биржа | [fertig-lance](https://github.com/dronov-dmitry/fertig-lance)| [Видео](https://www.youtube.com/watch?v=lEO2ZJ0XY9Y) |
 | CRM | CRM-платформа | [CRM](https://github.com/dronov-dmitry/crm) | [Видео](https://www.youtube.com/watch?v=UgGDOl-gINQ) |
+| Translate-bo | Бот-переводчик в телеграм | [Translate-bot](https://github.com/dronov-dmitry/translate-bot) | [Видео]([https://www.youtube.com/watch?v=UgGDOl-gINQ](https://youtu.be/BgiKFu3L4zw)) |
 
 Telegram-bots:
 | Имя | Описание | Цена | Ссылка |
