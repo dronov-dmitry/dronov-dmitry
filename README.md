@@ -17,8 +17,9 @@ WEB-APPS:
 | CRM | CRM-платформа | [CRM](https://github.com/dronov-dmitry/crm) | [Видео](https://www.youtube.com/watch?v=UgGDOl-gINQ) |
 
 Telegram-bots:
-| Имя | Описание | Цена | Ссылка |
-| :--- | :--- | :--- | :--- |
-| Translate-bot | Бот-переводчик голосовых сообщений | 3$/month | [Перейти](https://t.me/translate_lng_bot) |
-| DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | Free | [Перейти](https://t.me/dronovbimbot) |
+| Имя | Описание | Цена | Github | Сайт | Бот |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Translate-bot | Бот-переводчик голосовых сообщений | 3$/month | [Перейти](https://github.com/dronov-dmitry/translate-bot) | [Сайт](https://dronov-dmitry.github.io/translate-bot/) | [Бот](https://t.me/translate_lng_bot) |
+| DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | Free | - | - | [Бот](https://t.me/dronovbimbot) |
+| Estate-bot | Бот-ищущий для вас недвижимость | Free/3€ | [Перейти](https://github.com/dronov-dmitry/estate-bot) | [Сайт](https://dronov-dmitry.github.io/estate-bot/) | [Бот](https://t.me/dronovbimbot) |
 
