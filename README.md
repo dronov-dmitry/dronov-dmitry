@@ -19,7 +19,7 @@ WEB-APPS:
 Telegram-bots:
 | Имя | Описание | Цена | Github | Сайт | Бот |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Translate-bot | Бот-переводчик голосовых сообщений | 3$/month | [Перейти](https://github.com/dronov-dmitry/translate-bot) | [Сайт](https://dronov-dmitry.github.io/translate-bot/) | [Бот](https://t.me/translate_lng_bot) |
-| DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | Free | - | - | [Бот](https://t.me/dronovbimbot) |
-| Estate-bot | Бот-ищущий для вас недвижимость | Free/3€ | [Перейти](https://github.com/dronov-dmitry/estate-bot) | [Сайт](https://dronov-dmitry.github.io/estate-bot/) | [Бот](https://t.me/dronovbimbot) |
+| Translate-bot | Бот-переводчик голосовых сообщений | [Перейти](https://github.com/dronov-dmitry/translate-bot) | [Сайт](https://dronov-dmitry.github.io/translate-bot/) | [Бот](https://t.me/translate_lng_bot) |
+| DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | - | - | [Бот](https://t.me/dronovbimbot) |
+| Estate-bot | Бот-ищущий для вас недвижимость | [Перейти](https://github.com/dronov-dmitry/estate-bot) | [Сайт](https://dronov-dmitry.github.io/estate-bot/) | [Бот](https://t.me/dronovbimbot) |
 
