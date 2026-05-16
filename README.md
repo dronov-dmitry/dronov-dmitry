@@ -17,7 +17,7 @@ WEB-APPS:
 | CRM | CRM-платформа | [CRM](https://github.com/dronov-dmitry/crm) | [Видео](https://www.youtube.com/watch?v=UgGDOl-gINQ) |
 
 Telegram-bots:
-| Имя | Описание | Цена | Github | Сайт | Бот |
+| Имя | Описание | Github | Сайт | Бот |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Translate-bot | Бот-переводчик голосовых сообщений | [Перейти](https://github.com/dronov-dmitry/translate-bot) | [Сайт](https://dronov-dmitry.github.io/translate-bot/) | [Бот](https://t.me/translate_lng_bot) |
 | DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | - | - | [Бот](https://t.me/dronovbimbot) |
