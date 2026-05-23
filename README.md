@@ -23,3 +23,8 @@ Telegram-bots:
 | DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | - | - | [Бот](https://t.me/dronovbimbot) |
 | Estate-bot | Бот-ищущий для вас недвижимость | [Перейти](https://github.com/dronov-dmitry/estate-bot) | [Сайт](https://dronov-dmitry.github.io/estate-bot/) | [Бот](https://t.me/dronovbimbot) |
 
+Open-source
+| Имя | Описание | Github | Скачать | Видео |
+| :--- | :--- | :--- | :--- | :--- |
+| AIStudyAssistant | AI Study Assistant | [Перейти](https://github.com/dronov-dmitry/AIStudyAssistant) | [Скачать](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Видео](https://youtu.be/ai4Hej-QYJQ) |
+| Deutsche-Verb | Deutsche verb lernen | [Перейти](https://github.com/dronov-dmitry/deutsche-verb) | [Скачать](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Видео](https://youtu.be/MbzCh3P16tI) |
