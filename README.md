@@ -26,12 +26,12 @@ Telegram-bots:
 Open-source
 | Имя | Описание | Github | Скачать | Видео |
 | :--- | :--- | :--- | :--- | :--- |
-| AIStudyAssistant | AI Study Assistant (Android) | [Перейти](https://github.com/dronov-dmitry/AIStudyAssistant) | [Скачать](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Видео](https://youtu.be/ai4Hej-QYJQ) |
-| Deutsche-Verb | Deutsche verb lernen (Android) | [Перейти](https://github.com/dronov-dmitry/deutsche-verb) | [Скачать](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Видео](https://youtu.be/MbzCh3P16tI) |
-| Construct-Manager | Manager of building (Android) | [Перейти](https://github.com/dronov-dmitry/construct-manager) | [Скачать](https://github.com/dronov-dmitry/construct-manager/releases) | [Видео](https://www.youtube.com/watch?v=oyeULknRJuU) |
+| AIStudyAssistant | AI Study Assistant (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/AIStudyAssistant) | [Скачать](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Видео](https://youtu.be/ai4Hej-QYJQ) |
+| Deutsche-Verb | Deutsche verb lernen (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/deutsche-verb) | [Скачать](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Видео](https://youtu.be/MbzCh3P16tI) |
+| Construct-Manager | Manager of building (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/construct-manager) | [Скачать](https://github.com/dronov-dmitry/construct-manager/releases) | [Видео](https://www.youtube.com/watch?v=oyeULknRJuU) |
 
 Android/Mac apps
 | Имя | Описание | Github | Скачать | Видео |
 | :--- | :--- | :--- | :--- | :--- |
-| RealTimeTranslator | Translator (Android) | [Перейти](https://dronov-dmitry.github.io/real-time-translator/) | [Скачать](https://github.com/dronov-dmitry/real-time-translator/releases) | [Видео](https://youtu.be/o7gV1MK87fc) |
+| RealTimeTranslator | Translator (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/real-time-translator/) | [Скачать](https://github.com/dronov-dmitry/real-time-translator/releases) | [Видео](https://youtu.be/o7gV1MK87fc) |
 
