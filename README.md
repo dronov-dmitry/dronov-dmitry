@@ -28,6 +28,7 @@ Open-source
 | :--- | :--- | :--- | :--- | :--- |
 | AIStudyAssistant | AI Study Assistant (Android) | [Перейти](https://github.com/dronov-dmitry/AIStudyAssistant) | [Скачать](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Видео](https://youtu.be/ai4Hej-QYJQ) |
 | Deutsche-Verb | Deutsche verb lernen (Android) | [Перейти](https://github.com/dronov-dmitry/deutsche-verb) | [Скачать](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Видео](https://youtu.be/MbzCh3P16tI) |
+| Construct-Manager | Manager of building (Android) | [Перейти](https://github.com/dronov-dmitry/construct-manager) | [Скачать](https://github.com/dronov-dmitry/construct-manager/releases) | [Видео](https://www.youtube.com/watch?v=oyeULknRJuU) |
 
 Android/Mac apps
 | Имя | Описание | Github | Скачать | Видео |
