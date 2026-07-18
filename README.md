@@ -34,4 +34,5 @@ Android/Mac apps
 | Имя | Описание | Github | Скачать | Видео |
 | :--- | :--- | :--- | :--- | :--- |
 | RealTimeTranslator | Translator (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/real-time-translator/) | [Скачать](https://github.com/dronov-dmitry/real-time-translator/releases) | [Видео](https://youtu.be/o7gV1MK87fc) |
+| LangBook-Reader | Reader another language books (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/lang-book-reader/) | [Скачать](https://github.com/dronov-dmitry/lang-book-reader/releases) | [Видео](https://youtube.com/shorts/5IN8ODxeQOk) |
 
