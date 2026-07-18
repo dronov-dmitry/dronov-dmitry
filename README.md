@@ -4,7 +4,8 @@
 EMAIL: dronov.dmitry.bim@gmail.com
 
 I write working MVPs, monetized, and open-source apps using AI.
-Monetization, including Bitcoin.
+
+Monetization, including Crypto.
 
 WEB-APPS:
 
