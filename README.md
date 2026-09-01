@@ -23,6 +23,7 @@ Telegram-bots:
 | Translate-bot | Бот-переводчик голосовых сообщений | [Перейти](https://github.com/dronov-dmitry/translate-bot) | [Сайт](https://dronov-dmitry.github.io/translate-bot/) | [Бот](https://t.me/translate_lng_bot) |
 | DronovBim-bot | Бот-записывающий вас на встречу/совещание со мной | - | - | [Бот](https://t.me/dronovbimbot) |
 | Estate-bot | Бот-ищущий для вас недвижимость | [Перейти](https://github.com/dronov-dmitry/estate-bot) | [Сайт](https://dronov-dmitry.github.io/estate-bot/) | [Бот](https://t.me/dronovbimbot) |
+| TimeOrganizer-bot | Бот помогающий проводить встречи | [Перейти](https://github.com/dronov-dmitry/time-organisation-bot) | [Сайт](https://dronov-dmitry.github.io/time-organisation-bot/) | [Бот](https://t.me/time_org_bot) |
 
 Open-source
 | Имя | Описание | Github | Скачать | Видео |
