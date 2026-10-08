@@ -5,7 +5,7 @@ EMAIL: dronov.dmitry.bim@gmail.com
 
 I write working MVPs, monetized, and open-source apps using AI.
 
-Open-source
+Open-source projects
 | Name | Description | Github | Download | Video |
 | --- | --- | --- | --- | --- |
 | AIStudyAssistant | AI Study Assistant (Android/Mac) | [Link](https://github.com/dronov-dmitry/AIStudyAssistant) | [Download](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Video](https://youtu.be/ai4Hej-QYJQ) |
