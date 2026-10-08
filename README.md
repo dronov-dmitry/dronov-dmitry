@@ -16,6 +16,8 @@ Open-source projects
 | MarkText | Fixed file naming issue in Markdown editor (Win/Mac/Linux) | [Link](https://github.com/marktext/marktext/pull/5325) | [Link](https://github.com/marktext/marktext/pull/5325) | [Video](https://www.youtube.com/shorts/OjGSpP9d76A) |
 | TextPad | Added two-finger touch scrolling and auto-detection of X-UTF-16LE-BOM encoding | [PR 1](https://github.com/maxistar/TextPad/pull/234) / [PR 2](https://github.com/maxistar/TextPad/pull/235) | [Google Play](https://play.google.com/store/apps/details?id=com.maxistar.textpad) | [Video](https://www.youtube.com/shorts/mreTjptc4fY) |
 | Zorin Taskbar | Added window tiling feature in Zorin OS (Linux) | [Link](https://github.com/ZorinOS/zorin-taskbar/pull/37) | — | [Video](https://youtu.be/7nrpvbiXs6Y) |
+| IFC Viewer (That Open) | Added multi-model support to an open-source IFC viewer for viewing and working with multiple BIM models simultaneously. | [Pull Request](https://github.com/ThatOpen/engine_components/pull/811) | — | [Video](https://youtu.be/a8Wp80GinH8) |
+
 
 
 
