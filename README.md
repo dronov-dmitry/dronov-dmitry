@@ -7,8 +7,26 @@ I write working MVPs, monetized, and open-source apps using AI.
 
 Monetization, including Crypto.
 
-WEB-APPS:
+Open-source
+| Имя | Описание | Github | Скачать | Видео |
+| --- | --- | --- | --- | --- |
+| AIStudyAssistant | AI Study Assistant (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/AIStudyAssistant) | [Скачать](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Видео](https://youtu.be/ai4Hej-QYJQ) |
+| Deutsche-Verb | Deutsche verb lernen (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/deutsche-verb) | [Скачать](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Видео](https://youtu.be/MbzCh3P16tI) |
+| Construct-Manager | Manager of building (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/construct-manager) | [Скачать](https://github.com/dronov-dmitry/construct-manager/releases) | [Видео](https://www.youtube.com/watch?v=oyeULknRJuU) |
+| Nemo | Исправление переключения раскладки клавиатуры в файловом менеджере | [Перейти](https://github.com/linuxmint/nemo/pull/3837) | — | [Видео](https://youtu.be/pSitfxwCchM) |
+| Nova Video Player | Поиск по настройкам в видеопроигрывателе (Android) | [PR 1](https://github.com/nova-video-player/aos-Video/pull/203) / [PR 2](https://github.com/nova-video-player/aos-AVP/pull/1850) | [Google Play](https://play.google.com/store/apps/details?id=org.courville.nova) | [Видео](https://www.youtube.com/shorts/fwUNcZYiXb4) |
+| MarkText | Исправление именования файлов в Markdown-редакторе (Win/Mac/Linux) | [Перейти](https://github.com/marktext/marktext/pull/5325) | [Перейти](https://github.com/marktext/marktext/pull/5325) | [Видео](https://www.youtube.com/shorts/OjGSpP9d76A) |
+| TextPad | Прокрутка текста двумя пальцами и автоопределение кодировки UTF-16LE-BOM (Android) | [PR 1](https://github.com/maxistar/TextPad/pull/234) / [PR 2](https://github.com/maxistar/TextPad/pull/235) | [Google Play](https://play.google.com/store/apps/details?id=com.maxistar.textpad) | [Видео](https://www.youtube.com/shorts/mreTjptc4fY) |
+| Zorin Taskbar | Плиточное размещение окон (Tiling) в Zorin OS (Linux) | [Перейти](https://github.com/ZorinOS/zorin-taskbar/pull/37) | — | [Видео](https://youtu.be/7nrpvbiXs6Y) |
 
+Android/Mac apps
+| Имя | Описание | Github | Скачать | Видео |
+| :--- | :--- | :--- | :--- | :--- |
+| RealTimeTranslator | Translator (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/real-time-translator/) | [Скачать](https://github.com/dronov-dmitry/real-time-translator/releases) | [Видео](https://youtu.be/o7gV1MK87fc) |
+| LangBook-Reader | Reader another language books (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/lang-book-reader/) | [Скачать](https://github.com/dronov-dmitry/lang-book-reader/releases) | [Видео](https://youtube.com/shorts/5IN8ODxeQOk) |
+
+
+WEB-APPS:
 | Имя | Описание | Github | Видео |
 | :--- | :--- | :--- | - |
 | Energo-pass | Считает энергетический паспорт здания | [energo_pass](https://github.com/dronov-dmitry/energo_pasport) | [Видео](https://www.youtube.com/watch?v=W-t38aRjG4E) |
@@ -25,16 +43,4 @@ Telegram-bots:
 | Estate-bot | Бот-ищущий для вас недвижимость | [Перейти](https://github.com/dronov-dmitry/estate-bot) | [Сайт](https://dronov-dmitry.github.io/estate-bot/) | [Бот](https://t.me/dronovbimbot) |
 | TimeOrganizer-bot | Бот помогающий проводить встречи | [Перейти](https://github.com/dronov-dmitry/time-organisation-bot) | [Сайт](https://dronov-dmitry.github.io/time-organisation-bot/) | [Бот](https://t.me/time_org_bot) |
 
-Open-source
-| Имя | Описание | Github | Скачать | Видео |
-| :--- | :--- | :--- | :--- | :--- |
-| AIStudyAssistant | AI Study Assistant (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/AIStudyAssistant) | [Скачать](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Видео](https://youtu.be/ai4Hej-QYJQ) |
-| Deutsche-Verb | Deutsche verb lernen (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/deutsche-verb) | [Скачать](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Видео](https://youtu.be/MbzCh3P16tI) |
-| Construct-Manager | Manager of building (Android/Mac) | [Перейти](https://github.com/dronov-dmitry/construct-manager) | [Скачать](https://github.com/dronov-dmitry/construct-manager/releases) | [Видео](https://www.youtube.com/watch?v=oyeULknRJuU) |
-
-Android/Mac apps
-| Имя | Описание | Github | Скачать | Видео |
-| :--- | :--- | :--- | :--- | :--- |
-| RealTimeTranslator | Translator (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/real-time-translator/) | [Скачать](https://github.com/dronov-dmitry/real-time-translator/releases) | [Видео](https://youtu.be/o7gV1MK87fc) |
-| LangBook-Reader | Reader another language books (Android/Mac) | [Перейти](https://dronov-dmitry.github.io/lang-book-reader/) | [Скачать](https://github.com/dronov-dmitry/lang-book-reader/releases) | [Видео](https://youtube.com/shorts/5IN8ODxeQOk) |
 
