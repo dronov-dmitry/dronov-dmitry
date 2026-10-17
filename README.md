@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dronov-dmitry
-- 👀 I’m interested in BIM
+- 👀 I’m interested in BIM / Automatisation
 
 EMAIL: dronov.dmitry.bim@gmail.com
 
