@@ -17,6 +17,7 @@ Open-source projects
 | TextPad | Added two-finger touch scrolling and auto-detection of X-UTF-16LE-BOM encoding | [PR 1](https://github.com/maxistar/TextPad/pull/234) / [PR 2](https://github.com/maxistar/TextPad/pull/235) | [Google Play](https://play.google.com/store/apps/details?id=com.maxistar.textpad) | [Video](https://www.youtube.com/shorts/mreTjptc4fY) |
 | Zorin Taskbar | Added window tiling feature in Zorin OS (Linux) | [Link](https://github.com/ZorinOS/zorin-taskbar/pull/37) | — | [Video](https://youtu.be/7nrpvbiXs6Y) |
 | IFC Viewer (That Open) | Added multi-model support to an open-source IFC viewer for viewing and working with multiple BIM models simultaneously. | [Pull Request](https://github.com/ThatOpen/engine_components/pull/811) | — | [Video](https://youtu.be/a8Wp80GinH8) |
+| Cinnamon Tile Windows | Added "Tile windows" submenu to the right-click menu of the Grouped window list applet in Cinnamon (Linux), with grid, halves, columns and quarters layouts (upstream issue closed as not planned, shipped as a standalone user applet) | [Link](https://github.com/dronov-dmitry/cinnamon-tile-windows) | [Link](https://github.com/dronov-dmitry/cinnamon-tile-windows) | [Video](https://youtu.be/u3yS7SXK9NI) |
 
 
 
