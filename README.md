@@ -7,11 +7,8 @@ I write open-source products
 
 If you want to support me:
 
-[https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
-
-Or
-
-SOLANA : CZCqkRJh3qn8zrRVbJKygmuh9x6DiMS2FzR1A1AxWXQC
+- [https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
+- SOLANA : CZCqkRJh3qn8zrRVbJKygmuh9x6DiMS2FzR1A1AxWXQC
 
 Open-source projects
 | Name | Technology / Stack | Description | Github | Download | Video |
