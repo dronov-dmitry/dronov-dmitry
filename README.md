@@ -11,7 +11,7 @@ If you want to support me:
 - SOLANA : CZCqkRJh3qn8zrRVbJKygmuh9x6DiMS2FzR1A1AxWXQC
 
 Open-source projects
-| Name | Technology / Stack | Description | Github | Download | Video |
+| Name | Technology | Description | Github | Download | Video |
 | --- | --- | --- | --- | --- | --- |
 | AIStudyAssistant | Kotlin, Jetpack Compose, Clean Architecture, MVVM, Kotlin Coroutines/Flows, Preferences DataStore, Material 3; Android/Mac | AI Study Assistant | [Link](https://github.com/dronov-dmitry/AIStudyAssistant) | [Download](https://github.com/dronov-dmitry/AIStudyAssistant/releases) | [Video](https://youtu.be/ai4Hej-QYJQ) |
 | Deutsche-Verb | Flutter/Dart, sqflite (SQLite), provider, sqflite_common_ffi, path_provider, url_launcher, http; Android/Mac | Deutsche verb lernen | [Link](https://github.com/dronov-dmitry/deutsche-verb) | [Download](https://github.com/dronov-dmitry/deutsche-verb/releases) | [Video](https://youtu.be/MbzCh3P16tI) |
