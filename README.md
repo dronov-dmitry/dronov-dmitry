@@ -23,7 +23,10 @@ Open-source projects
 | Zorin Taskbar | GNOME Shell extension (JavaScript/GJS), based on Dash to Panel; Linux | Added window tiling feature in Zorin OS | [Link](https://github.com/ZorinOS/zorin-taskbar/pull/37) | — | [Video](https://youtu.be/7nrpvbiXs6Y) |
 | IFC Viewer (That Open) | TypeScript/JavaScript, Three.js, web-ifc, @thatopen/fragments (BIM/IFC web stack); web | Added multi-model support to an open-source IFC viewer for viewing and working with multiple BIM models simultaneously. | [Pull Request](https://github.com/ThatOpen/engine_components/pull/811) | — | [Video](https://youtu.be/a8Wp80GinH8) |
 | Cinnamon Tile Windows | JavaScript/GJS (Cinnamon applet), adapted from Zorin Taskbar tiling algorithm (GPL-2.0-or-later); Linux | Added "Tile windows" submenu to the right-click menu of the Grouped window list applet in Cinnamon, with grid, halves, columns and quarters layouts (upstream issue closed as not planned, shipped as a standalone user applet) | [Link](https://github.com/dronov-dmitry/cinnamon-tile-windows) | [Link](https://github.com/dronov-dmitry/cinnamon-tile-windows) | [Video](https://youtu.be/u3yS7SXK9NI) |
-| BIMCraft | RUST | BIM Editor | [Link](https://github.com/IPedrax/BIMCraft/pull/175) | — | [Video](https://youtu.be/6MnhE-qsoHI) |
+| BIMCraft | RUST | Add Revit-style camera views | [Link](https://github.com/IPedrax/BIMCraft/pull/175) | — | [Video](https://youtu.be/6MnhE-qsoHI) |
+| BIMCraft | RUST | Edit families through MCP | [Link](https://github.com/IPedrax/BIMCraft/pull/187) | — | [Video](https://youtu.be/R5_7cVrX97s) |
+| BIMCraft | RUST | Added Traditional Chinese (zh_TW) | [Link](https://github.com/IPedrax/BIMCraft/pull/199) | — | [Video](https://youtu.be/cG_W3jrOxDE) |
+| BIMCraft | RUST | Snapping to annotation anchors | [Link](https://github.com/IPedrax/BIMCraft/pull/209) | — | [Video](https://youtu.be/i3hci55ritg) |
 
 
 
