@@ -29,6 +29,7 @@ Open-source projects
 | BIMCraft | RUST | Edit families through MCP | [Link](https://github.com/IPedrax/BIMCraft/pull/187) | — | [Video](https://youtu.be/R5_7cVrX97s) |
 | BIMCraft | RUST | Added Traditional Chinese (zh_TW) | [Link](https://github.com/IPedrax/BIMCraft/pull/199) | — | [Video](https://youtu.be/cG_W3jrOxDE) |
 | BIMCraft | RUST | Snapping to annotation anchors | [Link](https://github.com/IPedrax/BIMCraft/pull/209) | — | [Video](https://youtu.be/i3hci55ritg) |
+| BIMCraft | RUST, WebAssembly (wasmi) | WebAssembly plugins: sandboxed host ABI, dynamic commands and ribbon tabs, a plugin window, and a guest SDK with an example plugin | [Link](https://github.com/IPedrax/BIMCraft/pull/256) | — | [Video](https://youtu.be/OuOVO3mU8HE) |
 
 
 
