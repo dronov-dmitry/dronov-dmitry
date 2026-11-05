@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @dronov-dmitry
+- 👋 Hi, from Ukraine
+- I’m @dronov-dmitry
 - 👀 I’m interested in BIM / Automatisation
 
 EMAIL: dronov.dmitry.bim@gmail.com
