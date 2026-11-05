@@ -2,6 +2,7 @@
 - 👀 I’m interested in BIM / Automatisation
 
 EMAIL: dronov.dmitry.bim@gmail.com
+YOUTUBE: https://youtube.com/@dronovdmitry
 
 I write open-source products
 
