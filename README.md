@@ -31,7 +31,7 @@ Open-source projects
 | BIMCraft | RUST | Added Traditional Chinese (zh_TW) | [Link](https://github.com/IPedrax/BIMCraft/pull/199) | — | [Video](https://youtu.be/cG_W3jrOxDE) |
 | BIMCraft | RUST | Snapping to annotation anchors | [Link](https://github.com/IPedrax/BIMCraft/pull/209) | — | [Video](https://youtu.be/i3hci55ritg) |
 | BIMCraft | RUST, WebAssembly (wasmi) | WebAssembly plugins: sandboxed host ABI, dynamic commands and ribbon tabs, a plugin window, and a guest SDK with an example plugin | [Link](https://github.com/IPedrax/BIMCraft/pull/256) | — | [Video](https://youtu.be/OuOVO3mU8HE) |
-| Flameshot | C++ (Qt5/Qt6); Linux/Windows/macOS | (Описание требует уточнения; PR #5043) | [Link](https://github.com/flameshot-org/flameshot/pull/5043) | — | [Video](https://youtu.be/4J7Yy3Xk_Vs) |
+| Flameshot | C++ (Qt5/Qt6); Linux/Windows/macOS | interactive GIF recording with on-screen drawing | [Link](https://github.com/flameshot-org/flameshot/pull/5043) | — | [Video](https://youtu.be/4J7Yy3Xk_Vs) |
 
 
 
