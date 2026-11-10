@@ -11,7 +11,7 @@ I write open-source products
 If you want to support me:
 
 - [https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
-- SOLANA : CZCqkRJh3qn8zrRVbJKygmuh9x6DiMS2FzR1A1AxWXQC
+- SOLANA : FmeunBp67sPSBUHzr16XjkuvCDiUSrMhvx1SvEZRPP2q
 
 Open-source projects
 | Name | Technology | Description | Github | Download | Video |
