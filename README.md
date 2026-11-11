@@ -12,7 +12,7 @@ If you want to support me:
 
 - [https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
 - SOLANA : FmeunBp67sPSBUHzr16XjkuvCDiUSrMhvx1SvEZRPP2q
-- I search arbeit in Deutschland, if someone can help me i will be gratefull
+- I am looking for a job in Germany, or an unconditional income of 5,000 euros (gross) to support my family. If anyone can help me, I would be grateful.
 
 Open-source projects
 | Name | Technology | Description | Github | Download | Video |
