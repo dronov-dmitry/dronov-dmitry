@@ -12,7 +12,7 @@ If you want to support me:
 
 - [https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
 - SOLANA : FmeunBp67sPSBUHzr16XjkuvCDiUSrMhvx1SvEZRPP2q
-- I search remote arbeit in Deutschland, if someone can help me i will be gratefull
+- I search arbeit in Deutschland, if someone can help me i will be gratefull
 
 Open-source projects
 | Name | Technology | Description | Github | Download | Video |
