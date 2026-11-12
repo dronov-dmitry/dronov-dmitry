@@ -12,7 +12,7 @@ If you want to support me:
 
 - [https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
 - SOLANA : FmeunBp67sPSBUHzr16XjkuvCDiUSrMhvx1SvEZRPP2q
-- I am looking for a job in Germany. If anyone can help me, I would be grateful.
+- Looking for Job.
 
 Open-source projects
 | Name | Technology | Description | Github | Download | Video |
