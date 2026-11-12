@@ -12,7 +12,7 @@ If you want to support me:
 
 - [https://buymeacoffee.com/dronovdmitry](https://buymeacoffee.com/dronovdmitry)
 - SOLANA : FmeunBp67sPSBUHzr16XjkuvCDiUSrMhvx1SvEZRPP2q
-- Looking for Job.
+- Looking for remote Job in BIM with AI.
 
 Open-source projects
 | Name | Technology | Description | Github | Download | Video |
