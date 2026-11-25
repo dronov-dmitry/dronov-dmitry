@@ -34,7 +34,4 @@ Open-source projects
 | BIMCraft | RUST, WebAssembly (wasmi) | WebAssembly plugins: sandboxed host ABI, dynamic commands and ribbon tabs, a plugin window, and a guest SDK with an example plugin | [256](https://github.com/IPedrax/BIMCraft/pull/256) | — | [Video](https://youtu.be/OuOVO3mU8HE) |
 | Flameshot | C++ (Qt5/Qt6); Linux/Windows/macOS | interactive GIF recording with on-screen drawing | [5043](https://github.com/flameshot-org/flameshot/pull/5043) | — | [Video](https://youtu.be/4J7Yy3Xk_Vs) |
 | Flameshot | C++ (Qt5/Qt6); Linux/Windows/macOS | clickable save notification that opens the saved folder | [5047](https://github.com/flameshot-org/flameshot/pull/5047) | — | [Video](https://youtu.be/lcntC5H2WDU) |
-
-
-
-
+| DesignCraft | RUST (egui), WebAssembly; Win/Mac/Linux/web | Ctrl/Cmd + wheel pans the canvas sideways (InDesign-style), while Alt + wheel and precision-touchpad pinch keep zooming | [3247](https://github.com/storytold/designcraft/pull/3247) | — | [Video](https://youtu.be/CSW7gZ2yR4g) |
